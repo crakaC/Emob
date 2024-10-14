@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="BleMessaging.ble" target="21" />
+      <module name="BleMessaging.core.main" target="21" />
+      <module name="BleMessaging.core.test" target="21" />
+      <module name="BleMessaging.model" target="21" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
